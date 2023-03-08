@@ -1,0 +1,14 @@
+.list{
+    border: 1px solid black;
+    height: 75px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(84, 84, 170, 0.514);
+}
+.list li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
